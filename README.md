@@ -11,7 +11,7 @@ Esse desafio consiste em realizar um projeto por dia e codar por pelo menos 1 ho
 ✅  Dia 2 - Fazer um Hello World customizado com fontes, cores e imagens.  
 ✅  Dia 3 - Criar um botão animado.
 
-✅  Dia 4 - Criar uma calculadora.
+✅  Dia 4 - Criar uma calculadora.<br>
 ✅  Dia 5 - Desenvolver uma página customizada que exiba o erro 404.
 - [ ]   Dia 6 - Criar um card com efeito glassmorphism.
 - [ ]   Dia 7 - Desenvolver um contador.
