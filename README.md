@@ -12,7 +12,7 @@ Esse desafio consiste em realizar um projeto por dia e codar por pelo menos 1 ho
 ✅  Dia 3 - Criar um botão animado.
 
 ✅  Dia 4 - Criar uma calculadora.
-✅ Dia 5 - Desenvolver uma página customizada que exiba o erro 404.
+✅  Dia 5 - Desenvolver uma página customizada que exiba o erro 404.
 - [ ]   Dia 6 - Criar um card com efeito glassmorphism.
 - [ ]   Dia 7 - Desenvolver um contador.
 - [ ]  Dia 8 - Desenvolver um toggle que altere o tema para claro e escuro.
